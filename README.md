@@ -1,4 +1,4 @@
 # AgriTech
 This is a Software about Agriculture.
 <br>
-Developers: Nirmalya Adak, Subha Das, Tushar Roy, Ayan
+Developers: Nirmalya Adak, Subha Das, TusharRoy, Ayan
